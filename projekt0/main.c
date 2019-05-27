@@ -5,7 +5,7 @@ int main()
 {
     int dzien=10;
     printf("Hello world!\n");
-    dzien++;
+    dzien--;
     printf("Dzisiaj jest %d\n", dzien);
     return 0;
 }
